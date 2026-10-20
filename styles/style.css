@@ -19,6 +19,13 @@ input {
     margin-top: 0.25rem;
 }
 
+/* Password checkbox */
+input[type="checkbox"] {
+  width: auto;
+  padding: 0;
+  margin-top: 0;
+}
+
 /* Check button */
 button {
     margin-top: 1rem;
